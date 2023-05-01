@@ -1,5 +1,9 @@
 # AngularApp
 
+## Description
+
+Angular 14 for beginners by RedGroup - https://www.youtube.com/watch?v=RoXVw0WiAEM&list=PLXkonRjGXZwxKzElHsJ-fVlrHpW1sjl7P (2022)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.7.
 
 ## Development server
